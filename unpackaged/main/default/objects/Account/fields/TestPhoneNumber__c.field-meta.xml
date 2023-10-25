@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Handover_Notes__c</fullName>
+    <fullName>TestPhoneNumber__c</fullName>
+    <description>For demo testing</description>
     <externalId>false</externalId>
-    <label>Handover Notes</label>
-    <length>100</length>
+    <label>TestPhoneNumber</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
-    <type>Text</type>
-    <unique>false</unique>
+    <type>Phone</type>
 </CustomField>
